@@ -315,3 +315,12 @@ h2 {
     margin-bottom: 10px;
     font-weight: normal;
 }
+
+.gsc-control-cse, .gsc-results, .gsc-webResult.gsc-result {
+    background: none !important;
+    border: none !important;
+}
+
+.gcsc-more-maybe-branding-root {
+    display: none !important;
+}
