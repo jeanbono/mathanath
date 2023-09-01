@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accueil on Mathanath</title>
+    <link>https://mathanath.fr/</link>
+    <description>Recent content in Accueil on Mathanath</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language><atom:link href="https://mathanath.fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A propos</title>
+      <link>https://mathanath.fr/a-propos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathanath.fr/a-propos/</guid>
+      <description>A propos de MATHANATH Mathanath propose des cours particuliers de mathématiques dispensés par une professeure de mathématiques expérimentée. Après 23 ans d’enseignement au sein de l’éducation nationale en lycée et collège Nathalie Fraisse a créé une entreprise et propose ses services aux élèves qui, à un moment ou un autre, ont besoin de soutien scolaire en mathématiques ou à ceux qui désirent améliorer leurs résultats dans cette matière. Ces cours particuliers s’adressent aux élèves de la 6ème à la terminale.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mathanath.fr/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathanath.fr/contact/</guid>
+      <description> Vous pouvez me contacter par mail : mathanath@gmail.com ou me joindre par téléphone au : 06 30 96 92 44 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Nathalie Fraisse Envoyez-moi un message Nom* E-Mail* Objet* Message* </description>
+    </item>
+    
+    <item>
+      <title>Cours en visioconférence</title>
+      <link>https://mathanath.fr/cours-visio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathanath.fr/cours-visio/</guid>
+      <description>DES COURS EN LIGNE En mars 2020 nous avons tous été confrontés au confinement et à ses contraintes. Pour faire face à cette nouvelle situation, adapter la notion de cours particulier à celle de distance est devenu nécessaire.&amp;nbsp; A cette occasion j’ai pu tester avec mes élèves les cours par webcam interposée qui n’ont, finalement, rien à envier aux cours en présentiel. J’ai donc décidé de maintenir cette possibilité pour les élèves qui souhaiteraient utiliser cette façon de prendre leurs cours particuliers.</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://mathanath.fr/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathanath.fr/cv/</guid>
+      <description> Nathalie Fraisse, enseignante de 58 ans,
+professeure certifiée en mathématiques. Etudes universitaires
+à Limoges puis à Paris XI
+en Mathématiques Pures.
+Obtention du Capes&amp;nbsp;de mathématiques &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+en 1988. 23 années d’enseignement en lycée et
+collège. 12 années d’expérience dans l’enseignement
+par cours particuliers. Participation à la
+formation des futurs
+professeurs de
+mathématiques à l’IUFM. Eté 2011 : Création de Mathanath. </description>
+    </item>
+    
+    <item>
+      <title>Horaires</title>
+      <link>https://mathanath.fr/horaires/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathanath.fr/horaires/</guid>
+      <description> LES HORAIRES&amp;nbsp;: Du lundi au vendredi, entre 8h à 19h30, tout horaire pourra être envisagé &amp;nbsp;en fonction des disponibilités de l’élève. Prendre rendez-vous au 06 30 96 92 44. </description>
+    </item>
+    
+    <item>
+      <title>Resultats de recherche</title>
+      <link>https://mathanath.fr/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathanath.fr/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tarifs</title>
+      <link>https://mathanath.fr/tarifs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathanath.fr/tarifs/</guid>
+      <description>LES TARIFS&amp;nbsp;: Pour un collégien : 27 € par heure pour un cours particulier. 17 € par heure (et par élève) pour une séance suivie par deux élèves se présentant ensemble à un même cours. Pour un lycéen : 32 € pour un cours particulier d’une heure et quart. 19 € par cours (et par élève) pour une séance suivie par deux élèves se présentant ensemble à un même cours.</description>
+    </item>
+    
+  </channel>
+</rss>
