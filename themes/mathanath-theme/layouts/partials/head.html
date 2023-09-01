@@ -1,5 +1,6 @@
 {{ range .Site.Params.custom_css -}}
-    <link rel="stylesheet" href="{{ . | absURL }}">
+    {{ $style := resources.Get . | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}" />
 {{- end }}
 <script async src="https://cse.google.com/cse.js?cx=b09292742ccba45d9"></script>
 <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js"></script>
