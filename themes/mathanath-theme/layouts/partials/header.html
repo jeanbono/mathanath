@@ -1,0 +1,29 @@
+<div id="banner"></div>
+<div id="header">
+    <div class="container">
+        <img alt="logo" src="/images/logo-300x110.jpg" />
+        
+        <ul id="main_menu">
+            {{ $currentPage := . }}
+            {{- range site.Menus.main }}
+            <li {{if $currentPage.IsMenuCurrent "main" . }}class="current-menu-item"{{ end }}>
+                <a href="{{ .URL }}">
+                    {{ .Name }}
+                    {{- with .Page }}
+                        {{- with .Params.version -}}
+                            ({{ . }})
+                        {{- end }}
+                    {{- end }}
+                </a>
+            </li>
+            {{- end }}
+        </ul>
+    </div>
+    <div class="container title">
+        <h1>{{ if eq .Params.custom_title_enabled true }}{{ .Params.custom_title_value }}{{ else }}{{ .Title }}{{ end }}</h1>
+        <form action="/search" id="searchform" method="get">
+            <input type="submit" value="" id="searchsubmit" class="button">
+            <input type="text" id="searchinput" name="q" placeholder="Rechercher sur Mathanath">
+        </form>
+    </div>
+</div>

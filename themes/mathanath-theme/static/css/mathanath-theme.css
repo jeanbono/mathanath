@@ -1,0 +1,317 @@
+body {
+    background-image: url('/images/fond-fleur-3.jpg');
+    background-attachment: fixed;
+    background-repeat: repeat;
+    background-position: top center;
+    font: 13px/1.65em "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#page {
+    background-color: #f7e4f6;
+    margin: 30px auto;
+    width: 990px;
+    -moz-box-shadow: 0 0 5px rgba(0,0,0,0.3);
+    -webkit-box-shadow: 0 0 5px rgba(0,0,0,0.3);
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+}
+
+#banner {
+    min-height: 7px;
+    background-color: #d98f90;
+}
+
+.container {
+    position: relative;
+    width: 930px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+#main_menu {
+    list-style: none outside;
+    font-size: 13px;
+    margin: 35px 0 0 30px;
+    display: table;
+    padding: 0;
+}
+
+#main_menu li {
+    display: table-cell; 
+    position: relative;
+    padding-left: 30px;
+}
+
+#main_menu li a {
+    color: #8D838C;
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    padding: 0 0 3px 0;
+    text-transform: uppercase;
+}
+
+#main_menu li:first-child {
+    padding-left: 0px;
+}
+
+#main_menu li a:after {    
+    background: none repeat scroll 0 0 transparent;
+    bottom: 0;
+    content: "";
+    display: block;
+    height: 2px;
+    left: 50%;
+    position: absolute;
+    background: #151F16;
+    transition: width 0.3s ease 0s, left 0.3s ease 0s;
+    width: 0;
+}
+
+#main_menu li a:hover {
+    color: #151F16;
+}
+
+#main_menu li a:hover:after { 
+    width: 100%; 
+    left: 0; 
+}
+
+#main_menu li.current-menu-item a {
+    color: #151F16;
+}
+
+#main_menu li.current-menu-item a:after {
+    width: 100%;
+    background: #d98f90;
+    left: 0;
+}
+
+#header {
+    margin-bottom: 20px;
+    min-height: 50px;    
+}
+
+#header .container {
+    padding: 25px 0 5px 0;
+    border-bottom: 1px solid #bdbdbd;
+}
+
+#header .title h1 {
+    padding: 35px 0;
+    color: #8D838C;
+    font-family: Coustard;
+    font-size: 28px;
+    font-weight: normal;
+    padding: 10px 0 35px 0;
+    margin: 0;
+}
+
+#content {
+    padding-bottom: 30px;
+}
+
+#footer {
+    color: #885052;
+    background-color: #faf5fa;
+    padding: 50px 0 50px 0;
+    font-size: 11px;
+}
+
+#footer h3 {
+    font: 10px/17px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #621819;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    margin-bottom: 8px;
+}
+
+#footer ul {
+    border-top-style: dotted;
+    border-top-width: 1px;
+    border-color: #D4BEC2;
+    list-style: none outside;
+    margin: 0;
+    padding: 0;
+}
+
+#footer ul li a {
+    color: #621819;
+    text-decoration: none;
+    display: block;
+    font-size: 11px;
+    padding: 3px 0;
+    border-bottom: 1px dotted #D4BEC2;
+}
+
+#footer ul li a:hover {
+    text-decoration: underline;
+}
+
+#socket {
+    color: #621819;
+    background-color: #d98f90;
+    font-size: 11px;
+    padding: 14px 0 14px 0;
+}
+
+#socket a {
+    color: #621819;
+}
+
+#searchform {
+    position: absolute;
+    display: inline-block;
+    top: 50%;
+    right: 0;
+    margin-top: -18px;
+}
+
+#searchform input[type=text] {
+    background: none;
+    background-color: #e6e6e6;
+    color: #8D838C;
+    width: 160px;
+    padding: 10px 40px 10px 10px;
+    position: relative;
+    margin: 0;
+    border: 1px solid #8D838C;
+    outline: rgb(141, 131, 140);
+    font: 13px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#searchform input[type=submit] {
+    border: medium none;
+    cursor: pointer;
+    display: block;
+    outline: none;
+    padding: 0;
+    position: absolute;
+    background-color: #e6e6e6;
+    top: 1px;
+    right: 1px;
+    height: 36px;
+    width: 36px;
+    z-index: 9999;
+    background-image: url('/images/icon-search.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#searchform input[type=submit]:hover {
+    background-color: #f7e4f6;
+}
+
+h3 {
+    font-size: 22px;
+    color: #601a34;
+    font-family: Georgia;
+    line-height: 1.1em;
+    margin-bottom: 8px;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+}
+
+blockquote {
+    font-family: Georgia,"Times New Roman",Times,serif;
+    clear: both;
+    font-size: 1.5em;
+    line-height: 1.4em;
+    margin: 10px 0 10px 54px;
+    quotes: "\201C""\201D";
+    position: relative;
+}
+
+blockquote:before {
+    content: open-quote;
+    font-size: 5em;
+    line-height: .1em;
+    margin-right: 0.25em;
+    vertical-align: -0.5em;
+    display: block;
+    position: absolute;
+    top: 40px;
+    left: -54px;
+    opacity: 0.5;
+    width: 50px;
+    font-family: "Georgia", "Times New Roman", Helvetica, Arial, sans-serif;
+    color: #8D838C;
+}
+
+fieldset {
+    border: none;
+}
+
+.contact_form input[type=text], .contact_form input[type=email] {
+    width: 40%;
+    margin: 0 10px 0 0;
+    display: inline;
+    min-width: 221px;
+    border: 1px solid #bdbdbd;
+    -webkit-appearance: none;
+    padding: 6px 4px;
+    outline: none;
+    font: 13px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #777;
+    width: 210px;
+    background: #fff;
+}
+
+.contact_form label {
+    color: #601a34;
+    font-family: Georgia;
+    font-size: 11px;
+    font-weight: bold;
+    display: inline;
+}
+
+.contact_form textarea {
+    padding: 10px;
+    width: 70%;
+    min-height: 130px;
+    border-color: #bdbdbd;
+    line-height: 1.5em;
+    outline: none;
+    font: 13px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #777;
+    margin: 0;
+}
+
+.contact_form .textarea_label {
+    display: block;
+    visibility: visible;
+    top: auto;
+    left: auto;
+    position: absolute;
+    top: 2px;
+    left: 70%;
+    margin-left: 30px;
+}
+
+.contact_form .button {
+    color: #f7e4f6;
+    background-color: #d98f90;
+    padding: 9px 22px;
+    cursor: pointer;
+    border: none;
+}
+
+.contact_form .button:hover {
+    background-color: #e3999a;
+}
+
+#content a {
+    color: #d98f90;
+}
+
+h1 {
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 33px;
+    line-height: 1.1em;
+    margin-bottom: 10px;
+    font-weight: normal;
+}

@@ -1,0 +1,7 @@
+baseURL = 'https://mathanath.fr/'
+languageCode = 'fr'
+title = 'Mathanath'
+theme = 'mathanath-theme'
+sectionPagesMenu = 'main'
+[markup.goldmark.renderer]
+    unsafe= true
