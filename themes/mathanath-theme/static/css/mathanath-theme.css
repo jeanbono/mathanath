@@ -47,7 +47,7 @@ body {
 hr {
     border-bottom: 1px solid #bdbdbd;
     border-top: none;
-    margin: 15px 0;
+    margin: 20px 0;
 }
 
 .container {
@@ -353,8 +353,4 @@ h2 {
 
 .gcsc-more-maybe-branding-root {
     display: none !important;
-}
-
-.test {
-
 }
