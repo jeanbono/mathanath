@@ -5,3 +5,5 @@ theme = 'mathanath-theme'
 sectionPagesMenu = 'main'
 [markup.goldmark.renderer]
     unsafe= true
+[params]
+    banner = 'Quelques places restent disponibles pour cette année scolaire, pour tout renseignement n’hésitez pas à me contacter.'
