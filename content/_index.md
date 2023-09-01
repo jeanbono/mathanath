@@ -52,6 +52,8 @@ custom_title_value: Bienvenue sur Mathanath.fr !
   </div>
 </div>
 
+<hr />
+
 <h2 style="text-align: center;">
     <span style="color: #601a34; font-family: georgia, palatino;">Bienvenue sur Mathanath.fr,</span>
 </h2>

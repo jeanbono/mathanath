@@ -20,6 +20,36 @@ body {
     background-color: #d98f90;
 }
 
+#banner .banner_content {
+    display: none;
+}
+
+#banner.show_banner .banner_content {
+    display: flex;
+}
+
+#banner .banner_content span {
+    display: inline-block;
+    padding: 5px 15px;
+    color: #621819;
+    font-size: 15px;
+    flex: auto;
+}
+
+#banner .banner_content button {
+    border: none;
+    background: none;
+    color: #621819;
+    cursor: pointer;
+    width: 40px;
+}
+
+hr {
+    border-bottom: 1px solid #bdbdbd;
+    border-top: none;
+    margin: 15px 0;
+}
+
 .container {
     position: relative;
     width: 930px;
@@ -323,8 +353,4 @@ h2 {
 
 .gcsc-more-maybe-branding-root {
     display: none !important;
-}
-
-.test {
-    
 }
