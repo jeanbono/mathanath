@@ -22,7 +22,7 @@
     <div class="container title">
         <h1>{{ if eq .Params.custom_title_enabled true }}{{ .Params.custom_title_value }}{{ else }}{{ .Title }}{{ end }}</h1>
         <form action="/search" id="searchform" method="get">
-            <input type="submit" value="" id="searchsubmit" class="button">
+            <input type="submit" value="" id="searchsubmit" class="button" value="">
             <input type="text" id="searchinput" name="q" placeholder="Rechercher sur Mathanath">
         </form>
     </div>
