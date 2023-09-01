@@ -16,37 +16,37 @@ custom_title_value: Bienvenue sur Mathanath.fr !
   <div class="splide__track">
     <ul class="splide__list">
         <li class="splide__slide">
-            <img src="https://mathanath.fr/wp-content/uploads/2012/01/12.jpg" title="1" alt="" style="opacity: 1;">
+            <img src="/images/12.jpg" title="1" alt="" style="opacity: 1;">
         </li>
         <li class="splide__slide">
-            <img src="https://mathanath.fr/wp-content/uploads/2012/01/2.jpg" title="2" alt="" style="opacity: 1;">
+            <img src="/images/2.jpg" title="2" alt="" style="opacity: 1;">
         </li>
         <li class="splide__slide">
-            <img src="https://mathanath.fr/wp-content/uploads/2012/01/3.jpg" title="3" alt="" style="opacity: 1;">
+            <img src="/images/3.jpg" title="3" alt="" style="opacity: 1;">
         </li>
         <li class="splide__slide">
-            <img src="https://mathanath.fr/wp-content/uploads/2012/01/4.jpg" title="4" alt="" style="opacity: 1;">
+            <img src="/images/4.jpg" title="4" alt="" style="opacity: 1;">
         </li>
         <li class="splide__slide">
-            <img src="https://mathanath.fr/wp-content/uploads/2012/01/5.jpg" title="5" alt="" style="opacity: 1;">
+            <img src="/images/5.jpg" title="5" alt="" style="opacity: 1;">
         </li>
         <li class="splide__slide">
-            <img src="https://mathanath.fr/wp-content/uploads/2012/01/6.jpg" title="6" alt="" style="opacity: 1;">
+            <img src="/images/6.jpg" title="6" alt="" style="opacity: 1;">
         </li>
         <li class="splide__slide">
-            <img src="https://mathanath.fr/wp-content/uploads/2012/01/7.jpg" title="7" alt="" style="opacity: 1;">
+            <img src="/images/7.jpg" title="7" alt="" style="opacity: 1;">
         </li>
         <li class="splide__slide">
-            <img src="https://mathanath.fr/wp-content/uploads/2012/01/8.jpg" title="8" alt="" style="opacity: 1;">
+            <img src="/images/8.jpg" title="8" alt="" style="opacity: 1;">
         </li>
         <li class="splide__slide">
-            <img src="https://mathanath.fr/wp-content/uploads/2012/01/9.jpg" title="9" alt="" style="opacity: 1;">
+            <img src="/images/9.jpg" title="9" alt="" style="opacity: 1;">
         </li>
         <li class="splide__slide">
-            <img src="https://mathanath.fr/wp-content/uploads/2012/01/10.jpg" title="10" alt="" style="opacity: 1;">
+            <img src="/images/10.jpg" title="10" alt="" style="opacity: 1;">
         </li>
         <li class="splide__slide">
-            <img src="https://mathanath.fr/wp-content/uploads/2012/01/111.jpg" title="11" alt="" style="opacity: 1;">
+            <img src="/images/111.jpg" title="11" alt="" style="opacity: 1;">
         </li>
     </ul>
   </div>
