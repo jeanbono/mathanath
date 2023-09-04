@@ -1,5 +1,5 @@
 body {
-    background-image: url('/images/fond-fleur-3.jpg');
+    background-image: url('/images/fond-fleur-3.webp');
     background-attachment: fixed;
     background-repeat: repeat;
     background-position: top center;
@@ -223,7 +223,7 @@ hr {
     height: 36px;
     width: 36px;
     z-index: 9999;
-    background-image: url('/images/icon-search.png');
+    background-image: url('/images/icon-search.webp');
     background-position: center center;
     background-repeat: no-repeat;
 }

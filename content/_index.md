@@ -16,37 +16,37 @@ custom_title_value: Bienvenue sur Mathanath.fr !
   <div class="splide__track">
     <ul class="splide__list">
         <li class="splide__slide">
-            <img src="/images/12.jpg" title="1" alt="" style="opacity: 1;">
+            <img src="/images/12.webp" title="1" alt="" style="opacity: 1;">
         </li>
         <li class="splide__slide">
-            <img src="/images/2.jpg" title="2" alt="" style="opacity: 1;">
+            <img src="/images/2.webp" title="2" alt="" style="opacity: 1;">
         </li>
         <li class="splide__slide">
-            <img src="/images/3.jpg" title="3" alt="" style="opacity: 1;">
+            <img src="/images/3.webp" title="3" alt="" style="opacity: 1;">
         </li>
         <li class="splide__slide">
-            <img src="/images/4.jpg" title="4" alt="" style="opacity: 1;">
+            <img src="/images/4.webp" title="4" alt="" style="opacity: 1;">
         </li>
         <li class="splide__slide">
-            <img src="/images/5.jpg" title="5" alt="" style="opacity: 1;">
+            <img src="/images/5.webp" title="5" alt="" style="opacity: 1;">
         </li>
         <li class="splide__slide">
-            <img src="/images/6.jpg" title="6" alt="" style="opacity: 1;">
+            <img src="/images/6.webp" title="6" alt="" style="opacity: 1;">
         </li>
         <li class="splide__slide">
-            <img src="/images/7.jpg" title="7" alt="" style="opacity: 1;">
+            <img src="/images/7.webp" title="7" alt="" style="opacity: 1;">
         </li>
         <li class="splide__slide">
-            <img src="/images/8.jpg" title="8" alt="" style="opacity: 1;">
+            <img src="/images/8.webp" title="8" alt="" style="opacity: 1;">
         </li>
         <li class="splide__slide">
-            <img src="/images/9.jpg" title="9" alt="" style="opacity: 1;">
+            <img src="/images/9.webp" title="9" alt="" style="opacity: 1;">
         </li>
         <li class="splide__slide">
-            <img src="/images/10.jpg" title="10" alt="" style="opacity: 1;">
+            <img src="/images/10.webp" title="10" alt="" style="opacity: 1;">
         </li>
         <li class="splide__slide">
-            <img src="/images/111.jpg" title="11" alt="" style="opacity: 1;">
+            <img src="/images/111.webp" title="11" alt="" style="opacity: 1;">
         </li>
     </ul>
   </div>
