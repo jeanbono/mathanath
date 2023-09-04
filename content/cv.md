@@ -39,6 +39,6 @@ title: CV
         </p>
     </div>
     <div style="width: 50%;">
-        <img decoding="async" id="Nathalie Fraisse" style="margin: 50px;" title="Nathalie Fraisse" src="/images/Portrait-pour-Mathanath1.jpg" alt="Nathalie Fraisse" width="300" height="300" />
+        <img decoding="async" id="Nathalie Fraisse" style="margin: 50px;" title="Nathalie Fraisse" src="/images/Portrait-pour-Mathanath1.webp" alt="Nathalie Fraisse" width="300" height="300" />
     </div>
 </div>
