@@ -5,6 +5,8 @@ menu:
 title: Accueil
 custom_title_enabled: true
 custom_title_value: Bienvenue sur Mathanath.fr !
+aliases:
+    - "/accueil"
 ---
 <script>
   document.addEventListener( 'DOMContentLoaded', function() {
