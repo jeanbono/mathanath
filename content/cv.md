@@ -10,7 +10,7 @@ title: CV
             <span style="color: #601a34; font-size: large; font-family: georgia, palatino;">Nathalie Fraisse,</span>
         </p>
         <p style="text-align: left; padding-left: 60px;">
-            <span style="color: #601a34; font-size: large; font-family: georgia, palatino;">enseignante de 58 ans,</span><br>
+            <span style="color: #601a34; font-size: large; font-family: georgia, palatino;">enseignante de 59 ans,</span><br>
             <span style="color: #601a34; font-size: large; font-family: georgia, palatino;"> professeure certifiée en mathématiques.</span>
         </p>
         <p style="text-align: left; padding-left: 60px;">
@@ -25,7 +25,7 @@ title: CV
             <span style="color: #601a34; font-size: large; font-family: georgia, palatino;"> collège.</span>
         </p>
         <p style="text-align: left; padding-left: 60px;">
-            <span style="color: #601a34; font-size: large; font-family: georgia, palatino;">12 années d’expérience dans l’enseignement<br>
+            <span style="color: #601a34; font-size: large; font-family: georgia, palatino;">14 années d’expérience dans l’enseignement<br>
         par cours particuliers.</span>
         </p>
         <p style="text-align: left; padding-left: 60px;">

@@ -6,4 +6,4 @@ sectionPagesMenu = 'main'
 [markup.goldmark.renderer]
     unsafe= true
 [params]
-    banner = 'Quelques places restent disponibles pour cette année scolaire, pour tout renseignement n’hésitez pas à me contacter.'
+    banner = 'Plus de place disponible pour l’année scolaire 24/25 mais vous pouvez d’ores et déjà me contacter pour la rentrée de septembre 2025'
