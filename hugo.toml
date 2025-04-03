@@ -7,3 +7,6 @@ sectionPagesMenu = 'main'
     unsafe= true
 [params]
     banner = 'Plus de place disponible pour l’année scolaire 24/25 mais vous pouvez d’ores et déjà me contacter pour la rentrée de septembre 2025'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
