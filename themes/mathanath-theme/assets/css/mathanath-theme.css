@@ -258,7 +258,6 @@ blockquote:before {
     font-size: 5em;
     line-height: .1em;
     margin-right: 0.25em;
-    vertical-align: -0.5em;
     display: block;
     position: absolute;
     top: 40px;
@@ -279,6 +278,7 @@ fieldset {
     display: inline;
     min-width: 221px;
     border: 1px solid #bdbdbd;
+    appearance: none;
     -webkit-appearance: none;
     padding: 6px 4px;
     outline: none;
